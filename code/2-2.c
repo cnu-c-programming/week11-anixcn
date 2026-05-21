@@ -9,6 +9,8 @@ int main(void) {
     printf("GREEN = %d\n", GREEN);
     printf("BLUE  = %d\n", BLUE);
 
+    printf("\n");
+    
     printf("OK    = %d\n", OK);
     printf("ERR   = %d\n", ERR);
     printf("BUSY  = %d\n", BUSY);
